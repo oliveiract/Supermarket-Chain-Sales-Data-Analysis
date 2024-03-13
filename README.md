@@ -65,7 +65,7 @@ Serão avaliadas a receita incremental e a quantidade vendida incremental. A rec
 
 - Os produtos oferecidos em ambas as campanhas, como cortinas, lençóis, recipientes, lâmpadas, esponjas e aquecedores, pertencem à categoria de bens duráveis ou semi-duráveis. Isso se deve ao fato de apresentarem uma vida útil mais longa em comparação com os Bens de Consumo de Rápido Movimento (FMCG). 
 
-- O combo essencial de 8 produtos para casa pode abranger uma variedade de itens que pertencem a diferentes categorias. Se ele for composto principalmente por produtos de alta rotatividade e baixo custo, como produtos de higiene pessoal e limpeza, será classificado como Bens de Consumo de Rápido Movimento (FMCG). No entanto, se também incluir itens duráveis ou semi-duráveis, como utensílios domésticos ou de cozinha, poderá ser uma combinação das duas categorias.
+- O combo essencial de 8 produtos para casa pode abranger uma variedade de itens que pertencem a diferentes categorias. Se ele for composto principalmente por produtos de alta rotatividade e baixo custo, como produtos de limpeza, será classificado como Bens de Consumo de Rápido Movimento (FMCG). No entanto, se também incluir itens duráveis ou semi-duráveis, como utensílios domésticos ou de cozinha, poderá ser uma combinação das duas categorias.
 
     **Existem várias razões para incluir esses produtos na campanha. As promoções podem ser feitas para incentivar a compra deles, evitar perdas devido à proximidade da data de vencimento, reduzir o estoque ou atrair clientes que normalmente não comprariam por causa do preço mais alto. Além disso, produtos relacionados a celebrações ou consumidos durante períodos festivos podem estar recebendo destaque.**
 
