@@ -6,7 +6,7 @@
 
 AtliQ Mart, uma grande empresa varejista com mais de 50 supermercados na região sul da Índia, organizou uma ampla promoção em todos os seus 50 estabelecimentos durante o Diwali 2023 e o Sankranti 2024, períodos festivos na Índia, em seus produtos da marca AtliQ. Agora, o diretor de vendas está buscando compreender quais promoções tiveram um desempenho satisfatório e quais não, a fim de tomar decisões embasadas para o próximo período promocional.
 
-Ambas as campanhas apresentam 15 produtos em oferta, cobrindo as categorias Combo, Mercearia e Itens Básicos, Eletrodomésticos, Cuidados Domiciliares e Cuidados Pessoais. A diferença de tempo entre uma campanha e outra é de aproximadamente 60 dias. Participam 50 lojas distribuídas em 10 cidades. Cada campanha oferece cinco tipos de promoção: 25% de desconto, 33% de desconto, 50% de desconto, Compre um e Leve Outro Grátis (BOGOF) e 500 Cashback.
+Ambas as campanhas apresentam 15 produtos em oferta, cobrindo as categorias Combo, Mercearia e Itens Básicos, Eletroeletrônicos, Cuidados Domiciliares e Cuidados Pessoais. A diferença de tempo entre uma campanha e outra é de aproximadamente 60 dias. Participam 50 lojas distribuídas em 10 cidades. Cada campanha oferece cinco tipos de promoção: 25% de desconto, 33% de desconto, 50% de desconto, Compre um e Leve Outro Grátis (BOGOF) e 500 Cashback.
 
 
 ## 1.1. Sobre os dados
@@ -80,6 +80,3 @@ Serão avaliadas a receita incremental e a quantidade vendida incremental. A rec
 - Apresentar a análise para o diretor de vendas.
 
 ## 3.1. Análise Comparativa
-
-### 3.1.1 Produtos
-
