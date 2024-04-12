@@ -117,6 +117,13 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 
 - Na segunda estratégia, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://imgur.com/gDw4kc8.png" alt="Slide 1" style="width: 30%;">
+    <img src="https://imgur.com/gDw4kc8.png" alt="Slide 2" style="width: 30%;">
+    <img src="https://imgur.com/gDw4kc8.png" alt="Slide 3" style="width: 30%;">
+</div>
+
+
 ### 3.1.4. Cidades
 
 Sabe-se que quanto às festividades, Diwali é amplamente celebrado em toda a Índia, sem restrições geográficas, enquanto Sankranti tem sua influência mais concentrada nos estados do sul da Índia.  No total, há registros de vendas em 10 cidades indianas. Abaixo, destacam-se as top 3:
