@@ -134,6 +134,8 @@ Sabe-se que quanto às festividades, Diwali é amplamente celebrado em toda a Í
     - Durante a campanha Diwali, registrou-se um incremento de 63% nas quantidades vendidas, resultando em uma receita de 14,3 milhões.
     - Na campanha Sankranti, houve um aumento de 146% nas quantidades vendidas, alcançando uma receita de 7,3 milhões.
 
+<img src="https://imgur.com/gDw4kc8.png" width="100%"/>
+
 
 ### 3.1.5. Lojas
 
