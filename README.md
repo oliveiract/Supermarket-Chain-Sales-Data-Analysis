@@ -117,6 +117,11 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 
 - Na segunda estratégia, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
 
+## Apresentação em Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfE6KWh1k-cediMzdDAecFBiH0Z-WgyYy5FVbln4TT2v7UrQbCj0b6LmArYetqxGAGIsNHMTW3JOvL/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 
 ### 3.1.4. Cidades
 
