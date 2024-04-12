@@ -116,10 +116,15 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 
 <br>
 <div style="overflow: auto;">
-    <img src="https://imgur.com/3lLv59j.png" alt="Slide 1" style="width: 30%; float: left; margin-right: 10px;">
-    <img src="https://imgur.com/Ds3JLh1.png" alt="Slide 2" style="width: 30%; float: left; margin-right: 10px;">
-    <img src="https://imgur.com/4DPF9XV.png" alt="Slide 3" style="width: 30%; float: left; margin-right: 10px;">
-    <img src="https://imgur.com/K1Zcxrh.png" alt="Slide 4" style="width: 30%; float: left; margin-right: 10px;">
+    <div style="float: left; width: 50%;">
+        <img src="https://imgur.com/3lLv59j.png" alt="Slide 1" style="width: 100%; margin-bottom: 10px;">
+        <img src="https://imgur.com/Ds3JLh1.png" alt="Slide 2" style="width: 100%;">
+    </div>
+    <div style="float: right; width: 50%;">
+        <img src="https://imgur.com/4DPF9XV.png" alt="Slide 3" style="width: 100%; margin-bottom: 10px;">
+        <img src="https://imgur.com/K1Zcxrh.png" alt="Slide 4" style="width: 100%;">
+    </div>
+    <div style="clear: both;"></div>
 </div>
 
 <br>
