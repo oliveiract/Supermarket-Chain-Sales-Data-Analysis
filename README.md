@@ -11,7 +11,7 @@ Ambas as campanhas apresentam 15 produtos em oferta, cobrindo as categorias Comb
 
 ## 1.1. Sobre os dados
 
-Os dados utilizados neste projeto foram adquiridos por meio do desafio número 9, organizado pela Plataforma de Educação [CodeBasic](https://codebasics.io/challenge/codebasics-resume-project-challenge). O conjunto de dados compreende as seguintes informações:
+Os dados utilizados neste projeto foram adquiridos por meio do desafio número 9, organizado pela Plataforma de Educação [CodeBasics](https://codebasics.io/challenge/codebasics-resume-project-challenge). O conjunto de dados compreende as seguintes informações:
 
 ### dim_campaigns:
 
@@ -155,5 +155,7 @@ Painel no Power BI com métricas e análises claras e autoexplicativas, facilita
 # 5.0. Conclusão
 
 - Quando substituir a oferta promocional de uma campanha por outra, priorizar a troca pela promoção BOGOF.
+- A promoção de 25% OFF teve pouco efeito em motivar os clientes a comprar produtos.
 - Explorar a criação de novos combos que incorporem a promoção 500 Cashback.
-- Os motivos por trás da seleção dos produtos em promoção não estão explícitos, no entanto, é crucial compreender historicamente quais itens apresentam uma alta demanda durante festividades. Contudo, parece que os produtos oferecidos estão alinhados com o espírito das duas celebrações. É digno de nota o destaque dado à farinha de trigo e ao óleo de girassol, pois ambos tiveram sua estratégia promocional alterada (de 25% de desconto para BOGOF) e seus preços aumentados entre uma campanha e outra. Como mencionado anteriormente, durante a festividade Sankranti pode haver uma demanda significativa por esses produtos. Portanto, essa mudança de estratégia parece ter sido acertada.
+- Os motivos por trás da seleção dos produtos em promoção não estão explícitos, no entanto, é crucial compreender historicamente quais itens apresentam uma alta demanda durante festividades. Contudo, parece que os produtos oferecidos estão alinhados com o espírito das duas celebrações. 
+    - É digno de nota o destaque dado à farinha de trigo e ao óleo de girassol, pois ambos tiveram sua estratégia promocional alterada (de 25% de desconto para BOGOF) e seus preços aumentados entre uma campanha e outra. Como mencionado anteriormente, durante a festividade Sankranti pode haver uma demanda significativa por esses produtos. Portanto, essa mudança de estratégia parece ter sido acertada, pois gerou grandes ganhos.
