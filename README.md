@@ -1,6 +1,6 @@
 # Análise de Vendas em Períodos Promocionais + SQL + Dashboard no Power BI
 
-<img src="https://i.imgur.com/Kbq3skI.png" alt="drawing" width="100%"/>
+<img src="https://i.imgur.com/Kbq3skI.png" width="100%"/>
 
 # 1. Problema de Negócios
 
@@ -113,3 +113,25 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 - Na primeira estratégia, encontram-se os produtos que foram promovidos da mesma maneira em ambas as campanhas, ou seja, utilizando o mesmo tipo de promoção. Nessa categoria, alguns produtos mostraram um sucesso consistente, com resultados ainda melhores na última campanha. Outros mantiveram um desempenho positivo, embora possam ter sido influenciados por outros fatores. Por outro lado, alguns produtos enfrentaram desafios, registrando um desempenho negativo em ambas as campanhas.
 
 - Na segunda estratégia, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
+
+
+### 3.1.4. Cidades
+
+Sabe-se que quanto às festividades, Diwali é amplamente celebrado em toda a Índia, sem restrições geográficas, enquanto Sankranti tem sua influência mais concentrada nos estados do sul da Índia.
+
+
+- Em Bangalore (Bengaluru), a capital de Karnataka, localizada no sul do estado, os resultados foram notáveis durante as análises das campanhas:
+    - Durante a campanha Diwali, registrou-se um incremento de 70% nas quantidades vendidas, resultando em uma receita de 23,8 milhões.
+    - Na campanha Sankranti, houve um aumento de 164% nas quantidades vendidas, alcançando uma receita de 12,1 milhões.
+
+- Chennai, a capital e a maior cidade do estado de Tamil Nadu, encontra-se na costa leste do sul, foi a segunda cidade com melhores resultados:
+    - Durante a campanha Diwali, registrou-se um incremento de 66% nas quantidades vendidas, resultando em uma receita de 18,8 milhões.
+    - Na campanha Sankranti, houve um aumento de 162% nas quantidades vendidas, alcançando uma receita de 9,8 milhões.
+    
+- Hyderabad, a capital do estado de Telangana, situada na região central-sul, foi com a terceira com melhores resultados:
+    - Durante a campanha Diwali, registrou-se um incremento de 63% nas quantidades vendidas, resultando em uma receita de 14,3 milhões.
+    - Na campanha Sankranti, houve um aumento de 146% nas quantidades vendidas, alcançando uma receita de 7,3 milhões.
+
+<img src="https://imgur.com/Dzirmhn.png" width="100%"/>
+
+
