@@ -101,7 +101,7 @@ Analisando as categorias e suas campanhas, destacam-se as seguintes categorias:
 
 - Eletrodomésticos (Home Appliances): Durante a festividade Sankranti, observou-se um aumento, embora menos expressivo, quando comparado a festividade Diwali, tanto na quantidade vendida quanto na receita gerada, com produtos como lâmpadas e aquecedores.
 
-- Cuidados Domiciliares (Home Care): Na semana Sankranti, as quantidades vendidas aumentaram, porém a receita teve uma leve variação, com produtos como lençóis, cortinas, recipientes e esponjas de louça.
+- Cuidados Domiciliares (Home Care): Na semana Sankranti, a quantidade vendida aumentou, porém a receita teve uma leve variação, com produtos como lençóis, cortinas, recipientes e esponjas de louça.
 
 - Cuidado Pessoal (Personal Care): Na última campanha, esta categoria apresentou o menor desempenho em ambas as métricas, com produtos como hidratantes e sabonetes.
 
