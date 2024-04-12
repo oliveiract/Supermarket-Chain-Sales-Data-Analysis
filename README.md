@@ -52,6 +52,14 @@ promo_type | O tipo de promoção aplicada (por exemplo, desconto percentual, BO
 quantity_sold(before_promo) | O número de unidades vendidas na semana imediatamente anterior ao início da campanha, servindo como base de comparação com as vendas promocionais.
 quantity_sold(after_promo) | A quantidade do produto vendida após a aplicação da promoção.
 
+## 1.2. Sobre as festividades
+
+A Índia é um país cheio de diversidade cultural, onde cada comunidade possui suas próprias tradições. Ao longo do ano, são realizadas diversas festividades.
+
+Diwali, conhecido como o Festival das Luzes, é celebrado tipicamente entre outubro e novembro para representar o triunfo do bem sobre o mal. Durante essa comemoração, casas e ruas são enfeitadas com lâmpadas, velas e lanternas. As pessoas se encontram para trocar presentes, compartilhar doces e realizar rituais religiosos em homenagem a diferentes divindades hindus, chamados de puja.
+
+Já o Sankranti, celebra a jornada do sol para um novo zodíaco e é festejado por toda a Índia sob diferentes nomes. Realizado em janeiro, coincide com a entrada do sol no signo de Capricórnio, marcando o término do inverno e o início da época de colheita. Durante esse período, as pessoas participam de cerimônias religiosas, fazem orações e preparam pratos típicos com os alimentos frescos da nova safra.
+
 
 # 2. Premissas de Negócio
 
@@ -80,3 +88,27 @@ Serão avaliadas a receita incremental e a quantidade vendida incremental. A rec
 - Apresentar a análise para o diretor de vendas.
 
 ## 3.1. Análise Comparativa
+
+### 3.1.1. Tipos de Promoção
+
+A Promoção BOGOF demonstrou um aumento significativo nas vendas e receitas incrementais, destacando sua eficácia em atrair clientes. Por outro lado, a promoção de 25% OFF resultou em redução nas vendas e receitas incrementais, enquanto a de 50% OFF teve um impacto ainda menor que a de 33% OFF. A promoção 'Ganhe 500 de Cashback' parece ser a mais eficaz em aumentar vendas e receitas incrementais
+
+### 3.1.2. Categorias
+
+Na categoria de Mercearia e alimentos básicos (Grocery and Staples), houve um crescimento significativo tanto na quantidade vendida quanto na receita, com produtos como lentilha, arroz, farinha de trigo e óleo de girassol. Já na categoria de Eletrodomésticos (Home Appliances), houve um aumento, embora menos expressivo, em ambas as métricas, com produtos como lâmpadas e aquecedores. Por outro lado, nos Cuidados Domiciliares (Home Care), as quantidades vendidas aumentaram, mas a receita teve uma leve variação, com produtos como lençóis, cortinas, recipientes e esponjas de louça. No entanto, de todas as categorias, o Cuidado Pessoal (Personal Care) teve o menor desempenho em ambas as métricas, com produtos como hidratantes e sabonetes. 
+
+
+### 3.1.3. Produtos
+
+Ao examinar o desempenho das promoções quanto aos produtos, é possível categorizar os resultados em duas estratégias distintas: 
+
+- Na primeira estratégia, encontram-se os produtos que foram promovidos da mesma maneira em ambas as campanhas, ou seja, utilizando o mesmo tipo de promoção. Nessa categoria, alguns produtos mostraram um sucesso consistente, com resultados ainda melhores na última campanha. Outros mantiveram um desempenho positivo, embora possam ter sido influenciados por outros fatores. Por outro lado, alguns produtos enfrentaram desafios, registrando um desempenho negativo em ambas as campanhas.
+
+- Na segunda estratégia, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
+
+
+
+-  
+
+
+
