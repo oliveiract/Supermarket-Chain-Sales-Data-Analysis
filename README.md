@@ -114,14 +114,19 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 
 - Na primeira estratégia, encontram-se os produtos que foram promovidos da mesma maneira em ambas as campanhas, ou seja, utilizando o mesmo tipo de promoção. Nessa categoria, alguns produtos mostraram um sucesso consistente, com resultados ainda melhores na última campanha. Outros mantiveram um desempenho positivo, embora possam ter sido influenciados por outros fatores. Por outro lado, alguns produtos enfrentaram desafios, registrando um desempenho negativo em ambas as campanhas.
 
+<br>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://imgur.com/3lLv59j.png" alt="Slide 1" style="width: 20%;">
+    <img src="https://imgur.com/Ds3JLh1.png" alt="Slide 2" style="width: 20%;">
+    <img src="https://imgur.com/4DPF9XV.png" alt="Slide 3" style="width: 20%;">
+    <img src="https://imgur.com/K1Zcxrh.png" alt="Slide 4" style="width: 20%;">
+</div>
+
+<br>
 
 - Na segunda estratégia, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://imgur.com/gDw4kc8.png" alt="Slide 1" style="width: 30%;">
-    <img src="https://imgur.com/gDw4kc8.png" alt="Slide 2" style="width: 30%;">
-    <img src="https://imgur.com/gDw4kc8.png" alt="Slide 3" style="width: 30%;">
-</div>
+
 
 
 ### 3.1.4. Cidades
