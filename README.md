@@ -1,4 +1,4 @@
-# Análise de Vendas em Períodos Promocionais + SQL + Dashboard no Power BI
+# Análise de Vendas em Períodos Promocionais + Excel + SQL + Dashboard no Power BI
 
 <img src="https://i.imgur.com/Kbq3skI.png" width="100%"/>
 
@@ -87,6 +87,8 @@ Serão avaliadas a receita incremental e a quantidade vendida incremental. A rec
 
 - Apresentar a análise para o diretor de vendas.
 
+- Criar e disponibilizar Painel Power BI para os stakeholders.
+
 ## 3.1. Análise Comparativa
 
 ### 3.1.1. Tipos de Promoção
@@ -117,7 +119,7 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 
 ### 3.1.4. Cidades
 
-Sabe-se que quanto às festividades, Diwali é amplamente celebrado em toda a Índia, sem restrições geográficas, enquanto Sankranti tem sua influência mais concentrada nos estados do sul da Índia.
+Sabe-se que quanto às festividades, Diwali é amplamente celebrado em toda a Índia, sem restrições geográficas, enquanto Sankranti tem sua influência mais concentrada nos estados do sul da Índia.  No total, há registros de vendas em 10 cidades indianas. Abaixo, destacam-se as top 3:
 
 
 - Em Bangalore (Bengaluru), a capital de Karnataka, localizada no sul do estado, os resultados foram notáveis durante as análises das campanhas:
@@ -132,5 +134,4 @@ Sabe-se que quanto às festividades, Diwali é amplamente celebrado em toda a Í
     - Durante a campanha Diwali, registrou-se um incremento de 63% nas quantidades vendidas, resultando em uma receita de 14,3 milhões.
     - Na campanha Sankranti, houve um aumento de 146% nas quantidades vendidas, alcançando uma receita de 7,3 milhões.
 
-<img src="https://imgur.com/Dzirmhn.png" width="100%"/>
 
