@@ -135,3 +135,25 @@ Sabe-se que quanto às festividades, Diwali é amplamente celebrado em toda a Í
     - Na campanha Sankranti, houve um aumento de 146% nas quantidades vendidas, alcançando uma receita de 7,3 milhões.
 
 
+### 3.1.5. Lojas
+
+Um total de 50 lojas participaram das promoções. Abaixo estão listadas, em ordem decrescente, as três principais lojas com os melhores resultados:
+
+- Durante a campanha do Diwali, a **loja STMYS-1**, localizada na cidade de Mysuru, registrou um incremento de 93% nas quantidades vendidas, resultando em uma receita de 3 milhões. Na campanha do Sankranti, houve um aumento significativo de 187% nas quantidades vendidas, alcançando uma receita de 1,6 milhões.
+
+- Durante a campanha do Diwali, a **loja STCHE-4**, situada em Chennai, observou um aumento de 82% nas quantidades vendidas, gerando uma receita de 3,1 milhões. Na campanha do Sankranti, as quantidades vendidas aumentaram em 179%, resultando em uma receita de 1,4 milhões.
+
+- Durante a campanha do Diwali, a loja **STBLR-0,** localizada em Bengaluru, viu um aumento de 79% nas quantidades vendidas, o que gerou uma receita de 3 milhões. Na campanha do Sankranti, as quantidades vendidas aumentaram significativamente em 192%, resultando em uma receita de 1,4 milhões.
+
+
+
+# 4.0 O Produto Final do Projeto
+
+Painel no Power BI com métricas e análises claras e autoexplicativas, facilitando a compreensão dos usuários.
+
+
+# 5.0. Conclusão
+
+- Quando substituir a oferta promocional de uma campanha por outra, priorizar a troca pela promoção BOGOF.
+- Explorar a criação de novos combos que incorporem a promoção 500 Cashback.
+- Os motivos por trás da seleção dos produtos em promoção não estão explícitos, no entanto, é crucial compreender historicamente quais itens apresentam uma alta demanda durante festividades. Contudo, parece que os produtos oferecidos estão alinhados com o espírito das duas celebrações.
