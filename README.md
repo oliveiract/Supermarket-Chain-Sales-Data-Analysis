@@ -100,7 +100,7 @@ Analisando as categorias e suas campanhas, destacamos o seguinte:
 
 - Mercearia e alimentos básicos (Grocery and Staples): Na semana anterior à semana promocional, observou-se um aumento significativo tanto na quantidade vendida quanto na receita gerada, especialmente durante a festividade Sankranti. Os produtos pertencentes a esta categoria incluem lentilha, arroz, farinha de trigo e óleo de girassol.
 
-- Eletrodomésticos (Home Appliances): Durante a festividade Sankranti, observou-se um aumento, embora menos expressivo, tanto na quantidade vendida quanto na receita gerada, com produtos como lâmpadas e aquecedores.
+- Eletrodomésticos (Home Appliances): Durante a festividade Sankranti, observou-se um aumento, embora menos expressivo, quando comparado a festividade Diwali, tanto na quantidade vendida quanto na receita gerada, com produtos como lâmpadas e aquecedores.
 
 - Cuidados Domiciliares (Home Care): Na semana Sankranti, as quantidades vendidas aumentaram, porém a receita teve uma leve variação, com produtos como lençóis, cortinas, recipientes e esponjas de louça.
 
@@ -117,8 +117,4 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 
 
 
-
--  
-
-
-
+-
