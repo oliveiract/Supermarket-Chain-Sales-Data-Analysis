@@ -56,7 +56,7 @@ quantity_sold(after_promo) | A quantidade do produto vendida após a aplicação
 
 A Índia é um país cheio de diversidade cultural, onde cada comunidade possui suas próprias tradições. Ao longo do ano, são realizadas diversas festividades.
 
-Diwali, conhecido como o Festival das Luzes, é celebrado tipicamente entre outubro e novembro para representar o triunfo do bem sobre o mal. Durante essa comemoração, casas e ruas são enfeitadas com lâmpadas, velas e lanternas. As pessoas se encontram para trocar presentes, compartilhar doces e realizar rituais religiosos em homenagem a diferentes divindades hindus, chamados de puja.
+Diwali, conhecido como o Festival das Luzes, é celebrado tipicamente entre outubro e novembro para representar o triunfo do bem sobre o mal. Durante essa comemoração, casas e ruas são enfeitadas com lâmpadas, velas e lanternas. As pessoas se encontram para trocar presentes, compartilhar doces e realizar rituais religiosos em homenagem a diferentes divindades hindus.
 
 Já o Sankranti, celebra a jornada do sol para um novo zodíaco e é festejado por toda a Índia sob diferentes nomes. Realizado em janeiro, coincide com a entrada do sol no signo de Capricórnio, marcando o término do inverno e o início da época de colheita. Durante esse período, as pessoas participam de cerimônias religiosas, fazem orações e preparam pratos típicos com os alimentos frescos da nova safra.
 
@@ -133,5 +133,4 @@ Sabe-se que quanto às festividades, Diwali é amplamente celebrado em toda a Í
     - Na campanha Sankranti, houve um aumento de 146% nas quantidades vendidas, alcançando uma receita de 7,3 milhões.
 
 <img src="https://imgur.com/Dzirmhn.png" width="100%"/>
-
 
