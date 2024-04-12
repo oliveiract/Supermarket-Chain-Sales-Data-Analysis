@@ -95,8 +95,7 @@ A Promoção BOGOF demonstrou um aumento significativo nas vendas e receitas inc
 
 ### 3.1.2. Categorias
 
-
-Analisando as categorias e suas campanhas, destacamos o seguinte:
+Analisando as categorias e suas campanhas, destacam-se as seguintes categorias:
 
 - Mercearia e alimentos básicos (Grocery and Staples): Na semana anterior à semana promocional, observou-se um aumento significativo tanto na quantidade vendida quanto na receita gerada, especialmente durante a festividade Sankranti. Os produtos pertencentes a esta categoria incluem lentilha, arroz, farinha de trigo e óleo de girassol.
 
@@ -116,5 +115,3 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 - Na segunda estratégia, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
 
 
-
--
