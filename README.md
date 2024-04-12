@@ -121,12 +121,16 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
     <img src="https://imgur.com/4DPF9XV.png" alt="Slide 3" style="width: 23%; margin-right: 10px;">
     <img src="https://imgur.com/K1Zcxrh.png" alt="Slide 4" style="width: 23%;">
 </div>
-
 <br>
 
 - Na segunda estratégia, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
 
-
+<br>
+<div style="display: flex; justify-content: center;">
+    <img src="https://imgur.com/qxPz8Og.png" alt="Slide 1" style="width: 23%; margin-right: 10px;">
+    <img src="https://imgur.com/A9iAoV4.png" alt="Slide 2" style="width: 23%;">
+</div>
+<br>
 
 
 ### 3.1.4. Cidades
