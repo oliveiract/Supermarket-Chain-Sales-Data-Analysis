@@ -115,7 +115,12 @@ Ao examinar o desempenho das promoções quanto aos produtos, é possível categ
 - Na primeira estratégia, encontram-se os produtos que foram promovidos da mesma maneira em ambas as campanhas, ou seja, utilizando o mesmo tipo de promoção. Nessa categoria, alguns produtos mostraram um sucesso consistente, com resultados ainda melhores na última campanha. Outros mantiveram um desempenho positivo, embora possam ter sido influenciados por outros fatores. Por outro lado, alguns produtos enfrentaram desafios, registrando um desempenho negativo em ambas as campanhas.
 
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfE6KWh1k-cediMzdDAecFBiH0Z-WgyYy5FVbln4TT2v7UrQbCj0b6LmArYetqxGAGIsNHMTW3JOvL/pub?start=true&loop=true&delayms=3000" width="100%" height="400px" frameborder="0" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;">
+    <img src="https://imgur.com/3lLv59j.png" alt="Slide 1" style="width: 23%; margin-right: 10px;">
+    <img src="https://imgur.com/Ds3JLh1.png" alt="Slide 2" style="width: 23%; margin-right: 10px;">
+    <img src="https://imgur.com/4DPF9XV.png" alt="Slide 3" style="width: 23%; margin-right: 10px;">
+    <img src="https://imgur.com/K1Zcxrh.png" alt="Slide 4" style="width: 23%;">
+</div>
 
 <br>
 
