@@ -95,7 +95,16 @@ A Promoção BOGOF demonstrou um aumento significativo nas vendas e receitas inc
 
 ### 3.1.2. Categorias
 
-Na categoria de Mercearia e alimentos básicos (Grocery and Staples), houve um crescimento significativo tanto na quantidade vendida quanto na receita, com produtos como lentilha, arroz, farinha de trigo e óleo de girassol. Já na categoria de Eletrodomésticos (Home Appliances), houve um aumento, embora menos expressivo, em ambas as métricas, com produtos como lâmpadas e aquecedores. Por outro lado, nos Cuidados Domiciliares (Home Care), as quantidades vendidas aumentaram, mas a receita teve uma leve variação, com produtos como lençóis, cortinas, recipientes e esponjas de louça. No entanto, de todas as categorias, o Cuidado Pessoal (Personal Care) teve o menor desempenho em ambas as métricas, com produtos como hidratantes e sabonetes. 
+
+Analisando as categorias e suas campanhas, destacamos o seguinte:
+
+- Mercearia e alimentos básicos (Grocery and Staples): Na semana anterior à semana promocional, observou-se um aumento significativo tanto na quantidade vendida quanto na receita gerada, especialmente durante a festividade Sankranti. Os produtos pertencentes a esta categoria incluem lentilha, arroz, farinha de trigo e óleo de girassol.
+
+- Eletrodomésticos (Home Appliances): Durante a festividade Sankranti, observou-se um aumento, embora menos expressivo, tanto na quantidade vendida quanto na receita gerada, com produtos como lâmpadas e aquecedores, de uma campanha para outra.
+
+- Cuidados Domiciliares (Home Care): Na semana Sankranti, as quantidades vendidas aumentaram, porém a receita teve uma leve variação, com produtos como lençóis, cortinas, recipientes e esponjas de louça, de uma campanha para outra.
+
+- Cuidado Pessoal (Personal Care): Na última campanha, esta categoria apresentou o menor desempenho em ambas as métricas, com produtos como hidratantes e sabonetes, de uma campanha para outra.
 
 
 ### 3.1.3. Produtos
