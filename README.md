@@ -112,24 +112,24 @@ Analisando as categorias e suas campanhas, destacamos o seguinte:
 
 Ao examinar o desempenho das promoções quanto aos produtos, é possível categorizar os resultados em duas estratégias distintas: 
 
-- Na primeira estratégia, encontram-se os produtos que foram promovidos da mesma maneira em ambas as campanhas, ou seja, utilizando o mesmo tipo de promoção. Nessa categoria, alguns produtos mostraram um sucesso consistente, com resultados ainda melhores na última campanha. Outros mantiveram um desempenho positivo, embora possam ter sido influenciados por outros fatores. Por outro lado, alguns produtos enfrentaram desafios, registrando um desempenho negativo em ambas as campanhas. 
+Na ***primeira estratégia***, encontram-se os produtos que foram promovidos da mesma maneira em ambas as campanhas, ou seja, utilizando o mesmo tipo de promoção. Nessa categoria, alguns produtos mostraram um sucesso consistente, com resultados ainda melhores na última campanha. Outros mantiveram um desempenho positivo, embora possam ter sido influenciados por outros fatores. Por outro lado, alguns produtos enfrentaram desafios, registrando um desempenho negativo em ambas as campanhas. 
 <br>
 
-    <div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
     <img src="https://imgur.com/3lLv59j.png" alt="Slide 1" style="width: 23%; margin: 0 5px;"">
     <img src="https://imgur.com/Ds3JLh1.png" alt="Slide 2" style="width: 23%; margin: 0 5px;"">
     <img src="https://imgur.com/4DPF9XV.png" alt="Slide 3" style="width: 23%; margin: 0 5px;"">
     <img src="https://imgur.com/K1Zcxrh.png" alt="Slide 4" style="width: 23%; margin: 0 5px;"">
-    </div>
+</div>
 <br>
 
-- Na segunda estratégia, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
+Na ***segunda estratégia***, os produtos tiveram suas estratégias de venda modificadas entre as campanhas, incluindo uma mudança no tipo de promoção e um aumento no preço dos produtos. No primeiro cenário, houve um aumento nas vendas na última campanha; no segundo, houve uma queda em comparação com a anterior.
 <br>
 
-    <div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
     <img src="https://imgur.com/qxPz8Og.png" alt="Slide 1" style="width: 23%; margin: 0 5px;">
     <img src="https://imgur.com/A9iAoV4.png" alt="Slide 2" style="width: 23%; margin: 0 5px;">
-    </div>
+</div>
 <br>
 
 
