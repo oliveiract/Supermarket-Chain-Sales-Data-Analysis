@@ -116,10 +116,10 @@ Na ***primeira estratégia***, encontram-se os produtos que foram promovidos da 
 <br>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://imgur.com/3lLv59j.png" alt="Slide 1" style="width: 23%; margin: 0 5px;"">
-    <img src="https://imgur.com/Ds3JLh1.png" alt="Slide 2" style="width: 23%; margin: 0 5px;"">
-    <img src="https://imgur.com/4DPF9XV.png" alt="Slide 3" style="width: 23%; margin: 0 5px;"">
-    <img src="https://imgur.com/K1Zcxrh.png" alt="Slide 4" style="width: 23%; margin: 0 5px;"">
+    <img src="https://imgur.com/3lLv59j.png" alt="Slide 1" style="width: 23%; margin: 0 15px;">
+    <img src="https://imgur.com/Ds3JLh1.png" alt="Slide 2" style="width: 23%; margin: 0 15px;">
+    <img src="https://imgur.com/4DPF9XV.png" alt="Slide 3" style="width: 23%; margin: 0 15px;">
+    <img src="https://imgur.com/K1Zcxrh.png" alt="Slide 4" style="width: 23%; margin: 0 15px;">
 </div>
 <br>
 
